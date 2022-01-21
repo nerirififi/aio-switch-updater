@@ -1,9 +1,12 @@
 [submodule "lib/zipper"]
 	path = lib/zipper
 	url = https://github.com/HamletDuFromage/zipper
+	branch = master
 [submodule "lib/borealis"]
 	path = lib/borealis
 	url = https://github.com/HamletDuFromage/borealis
+	branch = master
 [submodule "aiosu-rcm"]
 	path = aiosu-rcm
 	url = https://github.com/HamletDuFromage/aiosu-rcm
+	branch = master
